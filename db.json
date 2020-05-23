@@ -18,7 +18,6 @@
 		{
 			"id": 2,
 			"type": "Employee",
-			"identifier": " ",
 			"location": "Some random place",
 			"firstName": "John",
 			"lastName": "Smith",
@@ -28,7 +27,6 @@
 		{
 			"id": 4,
 			"type": "Other",
-			"identifier": " ",
 			"location": "Cafe",
 			"firstName": "Andrew",
 			"lastName": "Cave",
