@@ -27,7 +27,7 @@
 		},
 		{
 			"id": 4,
-			"type": "Other",
+			"type": "Visitor",
 			"identifier": "",
 			"location": "Cafe",
 			"firstName": "Andrew",
